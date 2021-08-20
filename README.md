@@ -1,3 +1,21 @@
+```js
+import webDeveloper from 'HudaxCode';
+
+class Bio extends webDeveloper {
+  name     = 'HudaxCods';
+  title    = 'Web Developer';
+  location = 'Kalimantan Timur';
+}
+
+class Skills extends webDeveloper {
+  languages  = ['Html', 'Css', 'Python'];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
+  frameworks = ['CI4', 'Bootstrap', 'Flask'];
+}
+```
+
+
+
 # Welcome Broh, [Hudaxcode](https://Hudaxcode.xyz) here 🙌
 
 ![Hudaxcode](https://komarev.com/ghpvc/?username=hudaxcodez&label=Views&color=blue&style=plastic)
