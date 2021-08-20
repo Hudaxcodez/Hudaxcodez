@@ -14,6 +14,12 @@ class Skills extends webDeveloper {
   databases  = ['MySQL', 'MongoDB'];
   frameworks = ['CI4', 'Bootstrap'];
 }
+
+class MyProject extends webDeveloper {
+  Project = 'https://github.com/hudaxcodez'
+  Sites   = 'https://hudaxcode.xyz'
+}
+  
 ```
 ![Hudaxcode](https://komarev.com/ghpvc/?username=hudaxcodez&label=Views&color=blue&style=plastic)
 [![GitHub Hudaxcode](https://img.shields.io/github/followers/hudaxcodez?label=follow&style=social)](https://github.com/hudaxcodez)
