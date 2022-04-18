@@ -1,4 +1,4 @@
-# Welcome , [hudaxcode](https://Hudaxcode.xyz) here
+# Welcome , [hudaxcode](https://hudaxcode.hrokuapp.com) here
 
 ![Hudaxcode](https://komarev.com/ghpvc/?username=hudaxcodez&label=Views&color=blue&style=plastic)
 [![GitHub Hudaxcode](https://img.shields.io/github/followers/hudaxcodez?label=follow&style=social)](https://github.com/hudaxcodez)
